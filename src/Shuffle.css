@@ -1,0 +1,9 @@
+.shuffle-parent {
+  position: relative;
+}
+
+.shuffle-char,
+.shuffle-word,
+.shuffle-line {
+  display: inline-block;
+}
